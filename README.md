@@ -1,2 +1,2 @@
 # WindowsInJava
-Trabalhando com JOption
+Trabalhando com JOptionPane
